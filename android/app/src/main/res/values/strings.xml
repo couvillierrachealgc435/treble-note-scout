@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Treble Note Scout</string>
+
+    <string name="app_title">TREBLE NOTE SCOUT</string>
+    <string name="splash_subtitle">SIGHT-READING FIELD TRAILS</string>
+    <string name="splash_loading">LOADING TRAIL</string>
+
+    <string name="menu_header">TRAILHEAD</string>
+    <string name="guide">GUIDE</string>
+    <string name="hero_line_1">TREBLE</string>
+    <string name="hero_line_2">NOTE</string>
+    <string name="hero_line_3">SCOUT</string>
+    <string name="menu_tagline">NAME THE NOTE BEFORE THE MARKER MOVES</string>
+    <string name="menu_current_trail">CURRENT: %1$s</string>
+    <string name="menu_most_missed">MOST MISSED: %1$s</string>
+
+    <string name="play">PLAY</string>
+    <string name="trail_map">TRAIL MAP</string>
+    <string name="scout_kit">SCOUT KIT</string>
+    <string name="start_trail">START TRAIL</string>
+    <string name="scout_again">SCOUT AGAIN</string>
+    <string name="weak_note_camp">WEAK NOTE CAMP</string>
+    <string name="menu">MENU</string>
+    <string name="resume">RESUME</string>
+
+    <string name="trail_map_title">TRAIL MAP</string>
+    <string name="trail_map_hint">PICK A TRAIL, THEN START IT</string>
+    <string name="trail_state_done">DONE ✓</string>
+    <string name="trail_state_open">OPEN</string>
+    <string name="trail_state_locked">LOCKED</string>
+
+    <string name="trail_1_title">OPEN MEADOW</string>
+    <string name="trail_1_range">C4 TO G4 · LETTERS</string>
+    <string name="trail_2_title">TREBLE LINES</string>
+    <string name="trail_2_range">E4 G4 B4 D5 F5 · LETTERS</string>
+    <string name="trail_3_title">TREBLE SPACES</string>
+    <string name="trail_3_range">F4 A4 C5 E5 · LETTERS</string>
+    <string name="trail_4_title">LEDGER CROSSING</string>
+    <string name="trail_4_range">A3 TO C6 · LETTERS</string>
+    <string name="trail_5_title">BASS CLEF RIDGE</string>
+    <string name="trail_5_range">C3 TO B3 · KEYS</string>
+    <string name="trail_6_title">ACCIDENTAL PASS</string>
+    <string name="trail_6_range">C4 TO B4 · KEYS</string>
+
+    <string name="game_counter">%1$s · %2$d/%3$d</string>
+    <string name="game_idle_hint">GET READY TO SCOUT</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_streak">STREAK</string>
+    <string name="stat_left">LEFT</string>
+    <string name="stat_accuracy">ACCURACY</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+    <string name="stat_time">TIME</string>
+    <string name="percent_value">%1$d%%</string>
+    <string name="time_value">%1$d:%2$02d</string>
+
+    <string name="pause_title">TRAIL PAUSED</string>
+    <string name="pause_message">The countdown is on hold until you step back onto the trail.</string>
+
+    <string name="gameover_win">TRAIL COMPLETE</string>
+    <string name="gameover_lose">TRAIL ENDED</string>
+    <string name="gameover_missed_title">NOTES TO REVISIT</string>
+    <string name="gameover_no_misses">NO MISSES ON THIS TRAIL</string>
+    <string name="new_best">NEW BEST ✓</string>
+
+    <string name="noteguide_title">NOTE GUIDE</string>
+    <string name="noteguide_treble">TREBLE CLEF</string>
+    <string name="noteguide_bass">BASS CLEF</string>
+    <string name="noteguide_phrases">MEMORY PHRASES</string>
+    <string name="phrase_treble_lines_title">TREBLE LINES</string>
+    <string name="phrase_treble_lines">EVERY GOOD BOY DESERVES FUDGE</string>
+    <string name="phrase_treble_spaces_title">TREBLE SPACES</string>
+    <string name="phrase_treble_spaces">FACE, FROM THE BOTTOM UP</string>
+    <string name="phrase_bass_lines_title">BASS LINES</string>
+    <string name="phrase_bass_lines">GOOD BOYS DO FINE ALWAYS</string>
+    <string name="phrase_bass_spaces_title">BASS SPACES</string>
+    <string name="phrase_bass_spaces">ALL COWS EAT GRASS</string>
+
+    <string name="settings_title">SCOUT KIT</string>
+    <string name="setting_timer">ANSWER TIMER</string>
+    <string name="setting_tone">INSTRUMENT TONE</string>
+    <string name="setting_labels">NOTE LABELS</string>
+    <string name="setting_haptics">HAPTIC FEEDBACK</string>
+    <string name="setting_answer_window">ANSWER WINDOW</string>
+    <string name="window_relaxed">RELAXED 8S</string>
+    <string name="window_steady">STEADY 5S</string>
+    <string name="window_brisk">BRISK 3S</string>
+    <string name="settings_note">Brisk runs end after three missed notes. Every change is kept for the next trail.</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+
+    <string name="key_state_idle">idle</string>
+    <string name="key_state_correct">correct</string>
+    <string name="key_state_wrong">missed</string>
+
+    <string name="cd_logo">Treble Note Scout emblem</string>
+    <string name="cd_trailhead">Trailhead marker</string>
+    <string name="cd_home">Back to the trailhead</string>
+    <string name="cd_pause">Pause the trail</string>
+    <string name="cd_treble_clef">Treble clef</string>
+    <string name="cd_bass_clef">Bass clef</string>
+    <string name="cd_scout_badge">Scout badge on the trail</string>
+    <string name="cd_keyboard_chart">Keyboard and tuning fork chart</string>
+</resources>
